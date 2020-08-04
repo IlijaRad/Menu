@@ -1,0 +1,46 @@
+{
+    "product": [
+        {
+            "name": "Mojito",
+            "price": 6.99,
+            "desc": "Mojito is a cocktail that consists of five ingredients: white rum, sugar, lime juice, soda water and mint.",
+            "image": "mojito.jpg",
+            "category": "Drinks"
+        },
+        {
+            "name": "Old Fashioned",
+            "price": 8.99,
+            "desc": "Old fashioned is made with rye or bourbon, a sugar cube, Angostura bitters, a thick cube of ice, and an orange twist delivers every time.",
+            "image": "old_fashioned.jpg",
+            "category": "Drinks"
+        },{
+            "name": "Capricciosa",
+            "price": 14.99,
+            "desc": "Pizza capricciosa is a style of pizza in Italian cuisine prepared with mozzarella cheese, Italian baked ham, mushroom, artichoke and tomato.",
+            "image": "capricciosa.jpg",
+            "category": "Dishes"
+        },
+        {
+            "name": "Caesar",
+            "price": 7.99,
+            "desc": "A Caesar salad is a green salad of romaine lettuce and croutons dressed with lemon juice, olive oil, egg, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper.",
+            "image": "caesar.jpg",
+            "category": "Salads"
+        }, 
+        {
+            "name": "Blancmange",
+            "price": 9.99,
+            "desc": "Blancmange is a sweet dessert commonly made with milk or cream and sugar thickened with rice flour, gelatin, corn starch or Irish moss, and often flavoured with almonds.",
+            "image": "blancmange.jpg",
+            "category": "Desserts"
+        },
+        {
+            "name": "Carbonara",
+            "price": 19.99,
+            "desc": "Carbonara is an Italian pasta dish made with egg, hard cheese, cured pork, and black pepper. The dish arrived at its modern form, with its current name, in the middle of the 20th century.",
+            "image": "carbonara.jpg",
+            "category": "Dishes"
+        }
+
+    ]
+}
