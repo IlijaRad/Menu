@@ -40,7 +40,39 @@
             "desc": "Carbonara is an Italian pasta dish made with egg, hard cheese, cured pork, and black pepper. The dish arrived at its modern form, with its current name, in the middle of the 20th century.",
             "image": "carbonara.jpg",
             "category": "Dishes"
+        },
+        {
+            "name": "French fries",
+            "price": 4.99,
+            "desc": "French fries, or simply fries, chips, finger chips or French-fried potatoes, are batonnet or allumette-cut deep-fried potatoes.",
+            "image": "french_fries.jpg",
+            "category": "Side Dishes"
+        }, {
+            "name": "Onion rings",
+            "price": 4.99,
+            "desc": "They generally consist of a cross-sectional ring of onion (the circular structure of which lends itself well to this method of preparation) dipped in batter or bread crumbs and then deep fried.",
+            "image": "onion_rings.jpg",
+            "category": "Side Dishes"
+        }, {
+            "name": "Hamburger",
+            "price": 8.99,
+            "desc": "A hamburger is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun.",
+            "image": "hamburger.jpg",
+            "category": "Dishes"
+        }, {
+            "name": "Cheeseburger",
+            "price": 8.99,
+            "desc": "A cheeseburger is a hamburger topped with cheese. Traditionally, the slice of cheese is placed on top of the meat patty, but the burger can include variations in structure, ingredients and composition. ",
+            "image": "cheeseburger.jpg",
+            "category": "Dishes"
+        }, {
+            "name": "Chickenburger",
+            "price": 8.99,
+            "desc": "A chicken burger is a sandwich that consists of boneless, skinless chicken breast served between slices of bread, with pickles, on a bun, or on a roll.",
+            "image": "chickenburger.jpg",
+            "category": "Dishes"
         }
 
-    ]
+    ],
+    "category": ["Dishes", "Salads", "Drinks", "Desserts", "Side Dishes"]
 }
